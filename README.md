@@ -4,3 +4,4 @@
 Latest Update - 
 New progress bar so you can know how close you are to finishing.
 Bug Fixes
+Smaller file size
